@@ -1,5 +1,7 @@
 # HEXACORE AUTO CLAIM &amp; TAPS
 - https://t.me/AirdropFamilyIDN
+# register bot
+- https://t.me/AirdropFamilyIDN/2460
 # how to run
 ```
 git clone https://github.com/AirdropFamilyIDN-V2-0/hexacore.git
